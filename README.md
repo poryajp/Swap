@@ -26,7 +26,7 @@ The script automates the entire process — from creating the file to making it 
 
 ## Usage
 
-1. Clone this repository or download the script:
-   ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
+Run the script directly with:
+
+```bash
+bash <(curl -fsSL https://raw.githubusercontent.com/poryajp/Swap/refs/heads/main/swap.sh)
